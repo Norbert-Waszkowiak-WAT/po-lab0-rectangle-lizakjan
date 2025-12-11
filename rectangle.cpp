@@ -30,3 +30,4 @@ public:
         cout << "Area" << area() << endl;
         cout << "Perimeter" << perimeter();
     }
+};
